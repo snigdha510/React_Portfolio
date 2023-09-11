@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3854101.css",
+    "main.js": "/static/js/main.7ad896ce.js",
+    "static/media/google drive.png": "/static/media/google drive.a6588b02ad252558cbcb.png",
+    "static/media/python.png": "/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/bird.jpg": "/static/media/bird.bbf042b7f95abe10592c.jpg",
+    "static/media/chabot.jpg.jpg": "/static/media/chabot.jpg.b26cb1f6a68b609d2537.jpg",
+    "static/media/problem solving.png": "/static/media/problem solving.74387c7a268cea60de3e.png",
+    "static/media/my-passport-photo.jpg": "/static/media/my-passport-photo.9cf3b65276cb73b7e697.jpg",
+    "static/media/ll.png": "/static/media/ll.59d149d02e8c5e66e5a1.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/sentiment_analysis.jpg": "/static/media/sentiment_analysis.2615e86e3cbfd8d9a1a6.jpg",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/communication.png": "/static/media/communication.97eba6cdf10b249c3c20.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/index.html",
+    "main.c3854101.css.map": "/static/css/main.c3854101.css.map",
+    "main.7ad896ce.js.map": "/static/js/main.7ad896ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3854101.css",
+    "static/js/main.7ad896ce.js"
+  ]
+}
