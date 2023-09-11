@@ -19,5 +19,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Link of the deployed web app: https://portfoliosnigdha.web.app/
 
-##Thank you !
+
 
